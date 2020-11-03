@@ -8,5 +8,5 @@ The experimental results show that the proposed multi-threaded projection tetrah
 Our algorithm implemented with vtk-8.2.0, so one must compile the vtk-8.2.0 first. 
 # Screenshot
 
-![](screenshot.png)
+![](https://github.com/andyfanplus/MPPTAUVR/blob/main/screenshot.png)
 
